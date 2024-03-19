@@ -71,7 +71,7 @@ To make it as easy as possible to use all of the tools offered by the repository
 
 ```shell
 $ ./run
-Usage: cli.py [OPTIONS] COMMAND [ARGS]...
+Usage: c [OPTIONS] COMMAND [ARGS]...
 
 Options:
   --help  Show this message and exit.
